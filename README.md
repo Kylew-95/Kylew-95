@@ -7,32 +7,28 @@
       font-family: Arial, sans-serif;
     }
     h1 {
-  color: white;
-  background-color: #333;
-  padding: 10px;
-}
-
-h2 {
-  color: white;
-  background: linear-gradient(black, blue);
-  padding: 10px;
-}
-
-p {
-  font-size: 16px;
-  color: white;
-  padding: 10px;
-}
-
-ul {
-  color: white;
-  padding: 10px;
-}
-
-div {
-  margin-bottom: 20px;
-}
-     </style>
+      color: white;
+      background-color: #333;
+      padding: 10px;
+    }
+    h2 {
+      color: white;
+      background: linear-gradient(black, blue);
+      padding: 10px;
+    }
+    p {
+      font-size: 16px;
+      color: white;
+      padding: 10px;
+    }
+    ul {
+      color: white;
+      padding: 10px;
+    }
+    div {
+      margin-bottom: 20px;
+    }
+  </style>
 </head>
 <body>
   <h1>About Me</h1>
