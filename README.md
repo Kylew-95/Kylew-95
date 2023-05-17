@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    
+    h1 {
+      color: #333;
+    }
+    
+    h2 {
+      color: #666;
+    }
+    
+    p {
+      line-height: 1.5;
+    }
+    
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+  </style>
+</head>
 <body>
   <h1>About Me</h1>
   <div>
@@ -14,10 +42,9 @@
   </div>
   <div>
     <h2>Interests</h2>
-<p>
-  I have a strong interest in music production and enjoy exploring different genres and creating my own tracks. My journey into the world of technology began when I started making music and constantly had to troubleshoot various plugins and software to achieve the desired sound. This experience sparked my curiosity in understanding the underlying technology and led me to explore programming and software development. I realized that by delving into the technical aspects, I could not only enhance my music production skills but also open up new possibilities for innovation and creativity. In addition to music, I also love live streaming, where I share my programming journey, discuss tech topics, and connect with fellow developers and enthusiasts.
-</p>
-
+    <p>
+      I have a strong interest in music production and enjoy exploring different genres and creating my own tracks. I also love live streaming, where I share my programming journey, discuss tech topics, and connect with fellow developers and enthusiasts.
+    </p>
   </div>
   <div>
     <h2>Projects</h2>
@@ -30,3 +57,4 @@
     </ul>
   </div>
 </body>
+</html>
