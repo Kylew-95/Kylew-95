@@ -3,7 +3,7 @@
   <div>
     <h2>Introduction</h2>
     <p>
-      Hi, my name is Kyle Williams, and I am an aspiring software developer with a diverse range of experiences. I am passionate about programming, music production, and streaming, taking pride in the work I do.
+      Hi, I'm Kyle Williams. Originally from South London, Clapham then moved to Mitcham at 11 years old. I am an aspiring software developer with a diverse range of experiences. I have been streaming for 2 years, where I share my programming journey, discuss tech topics, and connect with fellow developers and enthusiasts. In addition to streaming, I am passionate about programming and music production, and I take pride in the work I do in these fields.
     </p>
   </div>
   <div>
