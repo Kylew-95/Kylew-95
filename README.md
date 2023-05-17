@@ -25,6 +25,7 @@
       Some of the projects I have worked on include:
     </p>
     <ul>
+      <li>Pokemon Generator- Where the user can select a pokemon card of their choosing</li>
       <li>Social Networking App - Assisted in writing code for user authentication and profile management.</li>
       <li>Personal Portfolio Website - Designed and developed my own portfolio website using HTML, CSS, and JavaScript.</li>
     </ul>
