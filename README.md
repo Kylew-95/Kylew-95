@@ -3,7 +3,9 @@
   <div>
     <h2>Introduction</h2>
     <p>
-      Hi, I'm Kyle Williams. Originally from South London, Clapham then moved to Mitcham at 11 years old. I am an aspiring software developer with a diverse range of experiences. I have been streaming for 2 years, where I share my programming journey, discuss tech topics, and connect with fellow developers and enthusiasts. In addition to streaming, I am passionate about programming and music production, and I take pride in the work I do in these fields.
+"Hi, I'm Kyle Williams. I originally hail from Clapham in South London, and I moved to Mitcham when I was 11 years old. I'm an aspiring software developer with a diverse range of experiences. For the past two years, I have been streaming, where I produce music, engage in discussions on various topics, and connect with fellow producers and enthusiasts. Streaming has provided me with a platform to showcase my musical talents and build a community of like-minded individuals.
+
+Alongside my streaming activities, I am incredibly passionate about programming. I take great pride in the work I do in both fields. As an aspiring software developer, I have set my sights on honing my skills and becoming proficient in various programming languages, frameworks, and technologies. I believe that this multifaceted approach will enable me to make meaningful contributions to the industry and create innovative solutions.
     </p>
   </div>
   <div>
