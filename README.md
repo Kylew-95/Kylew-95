@@ -27,5 +27,7 @@ Alongside my streaming activities, I am incredibly passionate about programming.
     </p>
       <h2>Trader Raider</h2>
       A website where users can buy, sell, and trade trading cards.
+    https://trader-raider.netlify.app/
      <h2>Paws for affection</h2>
       Where users can adopt a fur-ever friend, while adoption agencies' can post dogs up for adoption.
+      https://pawsforaffection.netlify.app/
