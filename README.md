@@ -1,4 +1,3 @@
-<body>
   <h1>About Me</h1>
   <div>
     <h2>Introduction</h2>
@@ -26,8 +25,7 @@ Alongside my streaming activities, I am incredibly passionate about programming.
     <p>
       Some of the projects I have worked on include:
     </p>
-</body>
-      ##Trader Raider
+      <h2>Trader Raider</h2>
       A website where users can buy, sell, and trade trading cards.
-     ##Paws for affection
+     <h2>Paws for affection</h2>
       Where users can adopt a fur-ever friend, while adoption agencies' can post dogs up for adoption.
