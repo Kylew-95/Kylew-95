@@ -26,11 +26,8 @@ Alongside my streaming activities, I am incredibly passionate about programming.
     <p>
       Some of the projects I have worked on include:
     </p>
-    <ul>
+</body>
       ##Trader Raider
       A website where users can buy, sell, and trade trading cards.
      ##Paws for affection
       Where users can adopt a fur-ever friend, while adoption agencies' can post dogs up for adoption.
-    <ul>
-  </div>
-</body>
