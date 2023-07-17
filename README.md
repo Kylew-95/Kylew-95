@@ -1,33 +1,23 @@
-  <h1>About Me</h1>
-  <div>
-    <h2>Introduction</h2>
-    <p>
-"Hi, I'm Kyle Williams. I originally from Clapham in South London, and I moved to Mitcham when I was 11 years old. I'm an aspiring software developer with a diverse range of experiences. For the past two years, I have been streaming, where I produce music, engage in discussions on various topics, and connect with fellow producers and enthusiasts. Streaming has provided me with a platform to showcase my musical talents and build a community of like-minded individuals.
+<h1 align="center">Hi 👋, I'm Kyle</h1>
+<h3 align="center">Hi, I'm Kyle Williams. I originally from Clapham in South London, and I moved to Mitcham when I was 11 years old. I'm an aspiring software developer with a diverse range of experiences. For the past two years, I have been streaming, where I produce music, engage in discussions on various topics, and connect with fellow producers and enthusiasts. Streaming has provided me with a platform to showcase my musical talents and build a community of like-minded individuals.</h3>
 
-Alongside my streaming activities, I am incredibly passionate about programming. I take great pride in the work I do in both fields. As an aspiring software developer, I have set my sights on honing my skills and becoming proficient in various programming languages, frameworks, and technologies. I believe that this multifaceted approach will enable me to make meaningful contributions to the industry and create innovative solutions.
-    </p>
-  </div>
-  <div>
-    <h2>Background</h2>
-    <p>
-      As an aspiring software developer, I am proficient in programming languages such as <strong>Ruby, JavaScript, React, Three.js, node.js, HTML, and CSS</strong>. I have worked on various community projects, including a social networking app, where I assisted in writing code to fulfill project needs.
-    </p>
-  </div>
-  <div>
-    <h2>Interests</h2>
-<p>
-  I have a strong interest in music production and enjoy exploring different genres and creating my own tracks. My journey into the world of technology began when I started making music and constantly had to troubleshoot various plugins and software to achieve the desired sound. This experience sparked my curiosity in understanding the underlying technology and led me to explore programming and software development. I realized that by delving into the technical aspects, I could not only enhance my music production skills but also open up new possibilities for innovation and creativity. In addition to music, I also love live streaming, where I share my programming journey, discuss tech topics, and connect with fellow developers and enthusiasts.
+- 🔭 I’m currently working on [Traider Raider](https://trader-raider.netlify.app/)
+
+- 🌱 I’m currently learning **React Native, Python and automation tools**
+
+- 🤝 I’m looking for help with [Traider Raider](https://trader-raider.netlify.app/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Kylew-95](https://github.com/Kylew-95)
+
+- 📫 How to reach me **kylejordawiliams@gmail.com**
+
+- ⚡ Fun fact **Ive seen things no one should see**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kyle-williams-4a7793200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kyle-williams-4a7793200/" height="30" width="40" /></a>
 </p>
 
-  </div>
-  <div>
-    <h2>Projects</h2>
-    <p>
-      Some of the projects I have worked on include:
-    </p>
-      <h2>Trader Raider</h2>
-      A website where users can buy, sell, and trade trading cards.
-    https://trader-raider.netlify.app/
-     <h2>Paws for affection</h2>
-      Where users can adopt a fur-ever friend, while adoption agencies' can post dogs up for adoption.
-      https://pawsforaffection.netlify.app/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
